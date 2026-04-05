@@ -1,0 +1,2 @@
+body{background:#121212;color:#fff}.movie-grid{grid-gap:20px;display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));margin-top:20px}button{border-radius:20px;font-weight:700;padding:6px 15px}span{color:#fff;font-size:18px}.movie-card{background:#1c1c1c;height:100%;transition:.3s;width:200px}.movie-card:hover{transform:scale(1.05)}img{border-radius:10px}h1{color:#f5c518}footer{margin-top:40px}
+/*# sourceMappingURL=main.5e0a9de0.css.map*/
