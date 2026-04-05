@@ -58,7 +58,7 @@ This project is a fully functional movie web application where users can explore
 
 ## 🌐 Live Demo  
 
-https://ankit14022003.github.io/movie-app  
+https://ankit14022003.github.io/movie-app/
 
 ---
 
